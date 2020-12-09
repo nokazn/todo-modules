@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/nokazn/todo.git",
+  "repository": "https://github.com/nokazn/todo-modules.git",
   "author": "nokazn",
   "license": "MIT",
   "scripts": {
